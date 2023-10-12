@@ -1,0 +1,71 @@
+averiguar : sindrome del impostor
+
+https://www.w3schools.com/html/default.asp ( estudar las etiquetas de html)
+
+https://htmlcheatsheet.com/ (lenguage de emojis)
+
+https://favicon-generator.org
+https://favicon.io
+
+
+codigo de la CLASE 04/09/23
+
+<!DOCTYPE html>
+<html lang="es">
+  <head> <!-- SOY UN TAG DE CONFIGURACION  -->
+    <meta charset="UTF-8"> <!-- SOY UN TAG DE CONFIGURACION  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- mejorar la visualizacion del sitio en celulares -->
+    <title>Mi primer sitio web</title>
+  </head> <!-- TERMINA EL TAG DE CONFIGURACION  -->
+  <body>
+    <h1>
+      Hola soy un titulo
+    </h1> <!-- Esto es un tag h que sirve para hacer titulos-->
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. &#127849;
+      <br>
+      <br>
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p> <!-- Esto es un tag p que sirve para hacer parrafos-->
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est obcaecati alias laborum eius fuga. Recusandae incidunt accusantium provident quidem in, cumque magnam? Obcaecati laborum facilis similique quas eos. Vitae, magni!
+    </p>
+    <h2>
+      Soy un gatito que saca la imagen de internet
+    </h2>
+    <img src="https://placekitten.com/g/200/300" alt="gatito pequeño haciendole cariño en la pierna a una persona"> <!-- SELFCLOSING TAG-->
+    <h3>
+      Soy un gatito que saca la imagen desde mi carpeta local llamada imagenes
+    </h3>
+    <img src="./imagenes/gatito.jpeg" alt="gatito tierno con ojos verdes posando para camara">
+    <h4>Porfavor danos tu aporte para salvar gatitos</h4>
+    Hola somos una comunidad que ayuda a los gatitos sin casa porfavor ayudanos haciendo
+    <a href="https://www.google.com/" target="_blank">
+      click aca
+    </a>
+    <hr>
+    <h5>Mis gatos en orden de preferencia son</h5>
+    <ol> <!-- ORDERED LIST -->
+      <li>Mockita</li>
+      <li>Luna</li>
+      <li>Boo</li>
+      <li>Princesa</li>
+      <li>Milky</li>
+    </ol>
+    <h6>Hola soy un titulo</h6>
+  </body>
+</html>
+
+
+
+
+Correccion:
+
+Residencia: Quinta normal, Santiago de Chile
+Entusiasta de la tecnologia, curioso, adaptable y capaz de trabajar bajo presion.
+
+Anzoategui
+Santiago MariNo
+Academia Americana
+
+

@@ -1,0 +1,90 @@
+<i class="far fa-eye"></i>
+<i class="fa-regular fa-hand-peace"></i>
+<i class="fas fa-paint-brush"></i>
+
+
+
+
+body{
+    background-color: #000000;
+}
+
+
+header{
+top: 0px;
+left: 0px;
+width: 1280px;
+height: 73px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1;
+justify-content: center;
+display: flex;
+
+
+}
+
+h1{
+    top: 7px;
+    left: 530px;
+    width: 221px;
+    height: 59px;
+    text-align: left;
+    font: normal normal medium 50px/59px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.iguanabg{
+    background: transparent 
+    url('./image/bg-header.jpg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.sinopsis{
+top: 800px;
+left: 0px;
+width: 1280px;
+height: 348px;
+background: rgba(0, 0, 0, 1) 0% 0% no-repeat padding-box;
+opacity: 1;
+display: flex;
+justify-content: center;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.sinopsis .texto-sinopsis{
+top: 876px;
+left: 150px;
+width: 475px;
+height: 197px;
+padding: 100px;
+text-align: left;
+font: normal normal 300 20px/22px Raleway;
+letter-spacing: 0px;
+color: rgba(255, 255, 255, 1);
+opacity: 1;
+}
+
+.sinopsis .image-sinopsis{
+    top: 845px;
+    padding: 60px;
+    left: 731px;
+    width: 399px;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+
+}
+
+.image-sinopsis img{
+
+height: 300px;
+}
+
+
+
+

@@ -1,0 +1,35 @@
+consultas de etiquetas de HTML: https://i.emezeta.com/weblog/html5-cheatsheet/html5-cheatsheet-emezeta.pdf
+
+
+validador HTML : https://validator.w3.org/
+
+CREADOR DE TABLAS : https://divtable.com/generator/
+
+
+https://www.w3schools.com/html/default.asp ( estudar las etiquetas de html)
+
+https://htmlcheatsheet.com/ (lenguage de emojis)
+
+https://favicon-generator.org
+https://favicon.io
+
+Patrones de background: 
+https://www.magicpattern.design/tools/css-backgrounds
+
+
+https://www.eniun.com/propiedad-overflow-excedente-contenido-css/
+
+https://flexbox.malven.co/
+
+----------------------------------------- Boostrap ayuda ------------------------------------
+
+https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-grid-examples.php
+
+
+https://getbootstrap.com/docs/5.1/layout/breakpoints/
+
+
+https://getbootstrap.com/docs/5.1/utilities/flex/
+
+
+

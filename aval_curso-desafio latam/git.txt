@@ -1,0 +1,9 @@
+git config --list
+git add 
+staging
+git status
+git commit -m "nombre"
+git push -u origin main
+
+
+clave: ajelandro15

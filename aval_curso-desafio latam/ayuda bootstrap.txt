@@ -1,0 +1,6 @@
+https://getbootstrap.com/docs/5.1/layout/grid/
+
+<script src="https://kit.fontawesome.com/22ae6d249f.js" crossorigin="anonymous"></script>
+
+
+flex-grow-0 align-items-right

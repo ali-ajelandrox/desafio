@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+#appbg{
+    height: 420px;
+    width: 300px ;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#appbg form{
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+}
+
+
+#appbg input[type=textfield]{
+    width: 97.5%;
+    height: 25%;
+
+    cursor: default;
+    font-family:'Roboto', sans-serif;
+    color: white;
+    text-align: right;
+    font-size: 50px;
+    border: 0;
+    background-color: #000;
+    outline: none;
+}
+
+
+#appbg input[type=button] , input[type=reset]{
+    width: 22%;
+    cursor: pointer;
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 26px;
+    padding: 18px;
+    margin: 3px;
+    border: 0;
+    border-radius: 100%;
+
+
+
+}
+
+#appbg .orange{
+    background-color: rgb(253,149, 3) !important;
+    color: white !important;
+}
+
+#appbg .gray{
+    background-color: rgb(51,51,51) !important;
+    color: white !important;}
+
